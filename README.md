@@ -3,7 +3,10 @@
 I am a final year PhD student of Statistics at London School of Economics. 
 
 - 🔭 I’m currently working on deep generative models.  
-- 📫 How to reach me: tianlin.xu1@gmail.com
+- :mortar_board: Google Scholar: https://scholar.google.com/citations?user=KPrpfPsAAAAJ&hl=en
+- :e-mail: How to reach me: tianlin.xu1@gmail.com
+
+
 
 
 <!--
