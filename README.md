@@ -4,7 +4,7 @@ I am a final year PhD student of Statistics :game_die: at London School of Econo
 
 - 🔭 I’m currently working on deep generative models.  
 
-- 🌱 I’m interested in teaching machines how to see :eyes:, speak :mega:, draw :art:, think :brain: and act :running:.  
+- 🌱 I’m interested in teaching machines how to see :eyes:, speak :mega:, sing :music:, draw :art:, think :brain: and act :running:.  
 
 - :e-mail: How to reach me: tianlin.xu1@gmail.com
 
