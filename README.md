@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a final year PhD student of Statistics at London School of Economics. 
+
 <!--
 **tianlinxu312/tianlinxu312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
