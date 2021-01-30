@@ -1,13 +1,13 @@
-### Hi there 👋
+### :purple_heart: Welcome to my Github :purple_heart:
 
 I am a final year PhD student of Statistics at London School of Economics. 
 
 - 🔭 I’m currently working on deep generative models.  
+- 📫 How to reach me: tianlin.xu1@gmail.com
+
 
 <!--
 **tianlinxu312/tianlinxu312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am a final year PhD student of Statistics at London School of Economics. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
