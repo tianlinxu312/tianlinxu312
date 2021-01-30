@@ -13,13 +13,13 @@ COT-GAN is an adversarial algorithm to train implicit generative models. In addi
 
 - [Double Generative Adversarial Networks for Conditional Independence Testing.](https://arxiv.org/pdf/2006.02615.pdf) Shi C., Xu T., Bergsma W, & Li L. (2020). Under review.
 
-This paper considers the problem of high-dimensional conditional independence testing, which is a key building block in Statistics and Machine Learning.  The contributions of this paper involves two key components:  1. we construct a doubly-robust test statistic which offers additional protections against potential misspecification of the conditional distributions, 2. we propose a double GAN-based inference procedure for the conditional independence testing problem.
+The contributions of this paper involves two key components:  1. we construct a doubly-robust test statistic which offers additional protections against potential misspecification of the conditional distributions, 2. we propose a double GAN-based inference procedure for the conditional independence testing problem.
 
 
 - [Variational f-divergence Minimization.](https://arxiv.org/pdf/1907.11891.pdf) Zhang M., Bird T., Habib R., Xu T., & Barber D. (2019). Conference on
 Neural Information Processing Systems(NeurIPS) workshop.
 
-
+Probabilistic models are often trained by maximum likelihood, which corresponds to minimizing a specific f-divergence (forward KL divergence) between the model and data distribution. A general variational method for maximum likelihood is well established; however, how to train latent variable models using other f-divergences is comparatively unknown. The contribution of this paper is the derivation of a generic variantional upper bound that can be applied to train a large class of latent variable models using any f-divergence.
 
 <!--
 **tianlinxu312/tianlinxu312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
