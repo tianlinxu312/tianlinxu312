@@ -1,4 +1,4 @@
-### :purple_heart: Welcome to my Github :purple_heart:
+### :purple_heart: Hey there :purple_heart:
 
 I am a final year PhD student of Statistics :game_die: at London School of Economics. 
 
