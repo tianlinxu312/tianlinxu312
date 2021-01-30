@@ -19,7 +19,7 @@ The contributions of this paper involves two key components:  1. we construct a 
 - [Variational f-divergence Minimization.](https://arxiv.org/pdf/1907.11891.pdf) Zhang M., Bird T., Habib R., Xu T., & Barber D. (2019). Conference on
 Neural Information Processing Systems(NeurIPS) workshop.
 
-Probabilistic models are often trained by maximum likelihood, which corresponds to minimizing a specific f-divergence (forward KL divergence) between the model and data distribution. A general variational method for maximum likelihood is well established; however, how to train latent variable models using other f-divergences is comparatively unknown. The contribution of this paper is the derivation of a generic variantional upper bound that can be applied to train a large class of latent variable models using any f-divergence.
+Probabilistic models are often trained by maximum likelihood, which corresponds to minimizing a specific f-divergence (forward KL divergence) between the model and data distribution. A general variational method for training latent variable models using maximum likelihood is well established; however, how to train latent variable models using other f-divergences is comparatively unknown. The contribution of this paper is the derivation of a generic variantional upper bound that can be applied to train a large class of latent variable models using any f-divergence.
 
 <!--
 **tianlinxu312/tianlinxu312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
