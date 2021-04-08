@@ -1,6 +1,6 @@
 ### :purple_heart: Hey there :purple_heart:
 
-I am a final year PhD student of Statistics :game_die: at London School of Economics, jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). 
+I am a final year PhD student of Statistics :game_die:  at London School of Economics, jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). 
 
 - 🔭 I’m currently working on deep generative models.  
 
