@@ -2,7 +2,7 @@
 
 I am a final year PhD student of Statistics :game_die:  at London School of Economics. I'm jointly supervised by [Dr. Wicher Bergsma](https://www.lse.ac.uk/Statistics/People/Dr-Wicher-Bergsma) and [Prof. Beatrice Acciaio](http://beatrice-acciaio.net/). 
 
-- 🔭 I’m currently working on deep generative models.  
+- 🔭 Currently working on deep generative models.  
 
 - 🌱 I’m interested in teaching machines how to see :eyes: , speak :mega: , sing :musical_score: , draw :art: , think :brain: and act :running: .  
 
@@ -20,7 +20,7 @@ I am a final year PhD student of Statistics :game_die:  at London School of Econ
 -->
 - :computer: **Code**: [TensorFlow 2.x verson](https://github.com/tianlinxu312/cot-gan) and [PyTorch version](https://github.com/tianlinxu312/cot-gan-pytorch)
 
-#### [Double Generative Adversarial Networks for Conditional Independence Testing.](https://arxiv.org/pdf/2006.02615.pdf) Shi C., Xu T., Bergsma W, & Li L. (2020). Under Review.
+#### [Double Generative Adversarial Networks for Conditional Independence Testing.](https://arxiv.org/pdf/2006.02615.pdf) Shi C., Xu T., Bergsma W, & Li L. (2020). Under review.
 <!--
 - :speech_balloon: The contributions of this paper involves two key components:  1. we construct a doubly-robust test statistic which offers additional protections against potential misspecification of the conditional distributions, 2. we propose a double GAN-based inference procedure for the conditional independence testing problem.
 -->
