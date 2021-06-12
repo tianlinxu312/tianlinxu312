@@ -12,6 +12,8 @@ I am a final year PhD student of Statistics :game_die:  at London School of Econ
 
 #### [Quantized Conditional COT-GAN for Video Prediction](https://arxiv.org/pdf/2106.05658.pdf) Xu T. & Acciaio B. (2021). Under review.  
 
+#### [Generative modeling of spatio-temporal weather patterns with extreme event conditioning](https://arxiv.org/pdf/2104.12469.pdf). Klemmer K., Saha S., Kahl M., Xu T., Zhu XX. (2021). AIMOCC workshop, ICLR.
+
 #### [COT-GAN: Generating Sequential Data via Causal Optimal Transport.](https://papers.nips.cc/paper/2020/file/641d77dd5271fca28764612a028d9c8e-Paper.pdf) Xu T., Wenliang L., Munn M, & Acciaio B. (2020). Conference on Neural Information Processing Systems(NeurIPS).
 <!--
 - :speech_balloon: COT-GAN is an adversarial algorithm to train implicit generative models. In addition to simply using recurrent network structure to model sequential data,  the contribution of COT-GAN is to propose an objective function, formulated using ideas from Causal Optimal Transport (COT), which naturally encodes an additional temporal causality constaint. This objective function is optimised for learning time dependent data distributions, and generic for most applications of sequential nature, e.g., video, music, speech, stock prices, etc.  
