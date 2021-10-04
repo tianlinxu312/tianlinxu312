@@ -10,7 +10,17 @@ I am a final year PhD student of Statistics :game_die:  at London School of Econ
 
 ### :scroll: Publications | Preprints :scroll:
 
+#### [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss](https://arxiv.org/pdf/2109.15044.pdf) Klemmer K., Xu T., Acciaio B. and Neill D. (2021). Under review. 
+<!--
+- :speech_balloon: SPATE-GAN is a novel loss objective combined with COT-GAN based on an autoregressive embedding to reinforce the learning of spatio-temporal dynamics. SPATE (spatio-temporal association) is devised as a new metric measuring spatio-temporal autocorrelation by using the deviance of observations from their expected values.
+-->
+- :computer: **Code**: [PyTorch version](https://github.com/konstantinklemmer/spate-gan)
+
 #### [Quantized Conditional COT-GAN for Video Prediction](https://arxiv.org/pdf/2106.05658.pdf) Xu T. & Acciaio B. (2021). Under review.  
+
+<!--
+- :speech_balloon: QCCOT-GAN is a conditional version of COT-GAN suitable for sequence prediction, further improved on the convergence results of Causal Optimal Transport by working with modifications of the empirical measures via a specific type of quantization.
+-->
 
 #### [Generative modeling of spatio-temporal weather patterns with extreme event conditioning](https://arxiv.org/pdf/2104.12469.pdf). Klemmer K., Saha S., Kahl M., Xu T., Zhu XX. (2021). AIMOCC workshop, ICLR.
 
