@@ -10,6 +10,8 @@ I am a final year PhD student of Statistics :game_die:  at London School of Econ
 
 ### :scroll: Publications | Preprints :scroll:
 
+(\* indicates equal contribution. )
+
 #### [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss](https://arxiv.org/pdf/2109.15044.pdf) Klemmer K.\*, Xu T.\*, Acciaio B. and Neill D. (2021). Under review. 
 
 - :speech_balloon: SPATE-GAN is a novel loss objective combined with COT-GAN based on an autoregressive embedding to reinforce the learning of spatio-temporal dynamics. SPATE (spatio-temporal association) is devised as a new metric measuring spatio-temporal autocorrelation by using the deviance of observations from their expected values.
