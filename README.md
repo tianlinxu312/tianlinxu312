@@ -10,7 +10,7 @@ I am a final year PhD student of Statistics :game_die:  at London School of Econ
 
 ### :scroll: Publications | Preprints :scroll:
 
-(\* indicates equal contribution. )
+(\* indicates equal contributions. )
 
 #### [SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss](https://arxiv.org/pdf/2109.15044.pdf) Klemmer K.\*, Xu T.\*, Acciaio B. and Neill D. (2021). Under review. 
 
