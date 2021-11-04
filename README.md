@@ -32,7 +32,7 @@ I am a final year PhD student of Statistics :game_die:  at London School of Econ
 
 - :computer: **Code**: [TensorFlow 2.x verson](https://github.com/tianlinxu312/cot-gan) and [PyTorch version](https://github.com/tianlinxu312/cot-gan-pytorch)
 
-#### [Double Generative Adversarial Networks for Conditional Independence Testing.](https://arxiv.org/pdf/2006.02615.pdf) Shi C., Xu T., Bergsma W, & Li L. (2020). Under review.
+#### [Double Generative Adversarial Networks for Conditional Independence Testing.](https://arxiv.org/pdf/2006.02615.pdf) Shi C., Xu T., Bergsma W, & Li L. (2021+). Journal of Machine Learning Research, accepted.
 
 - :speech_balloon: The contributions of this paper involves 1. we construct a doubly-robust test statistic which offers additional protections against potential misspecification of the conditional distributions, 2. we propose a double GAN-based inference procedure for the conditional independence testing problem.
 
