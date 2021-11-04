@@ -36,7 +36,7 @@ I am a final year PhD student of Statistics :game_die:  at London School of Econ
 
 - :speech_balloon: The contributions of this paper involves 1. we construct a doubly-robust test statistic which offers additional protections against potential misspecification of the conditional distributions, 2. we propose a double GAN-based inference procedure for the conditional independence testing problem.
 
-- :computer: **Code**: [TensorFlow 2.x verson (working in progress)](https://github.com/tianlinxu312/dgcit)
+- :computer: **Code**: [TensorFlow 2.x verson](https://github.com/tianlinxu312/dgcit)
 
 #### [Variational f-divergence Minimization.](https://arxiv.org/pdf/1907.11891.pdf) Zhang M., Bird T., Habib R., Xu T., & Barber D. (2019). Conference on Neural Information Processing Systems(NeurIPS) workshop.
 
