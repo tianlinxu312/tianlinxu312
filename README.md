@@ -4,4 +4,4 @@ I'm a Senior Deep Learning Scientist at Illumina Artificial Intelligence Lab.  P
 
 You can find out more information about me by clicking [here](https://tianlinxu312.github.io/).
 
-Lately built a web app to promote Tech salary transparency in Europe, please visit: https://eur-tech-salaries.streamlit.app/
+I built a web app to promote Tech salary transparency in Europe, please visit: https://eur-tech-salaries.streamlit.app/
