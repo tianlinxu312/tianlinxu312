@@ -3,5 +3,3 @@
 I'm a Machine Learning Tech Lead at Sourceful.  Previously I was at Illumina AI Lab and Qualcomm AI, and completed my PhD in Statistics :game_die:  at London School of Economics.
 
 You can find out more information about me by clicking [here](https://tianlinxu312.github.io/).
-
-I built a web app to promote Tech salary transparency in Europe, please visit: https://eur-tech-salaries.streamlit.app/
